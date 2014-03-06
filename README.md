@@ -16,4 +16,4 @@ Playing around with motion detection using various methods and algorithms in C++
 ##Demo Sample:
 This is a snippet from a recording that was taken using the motion detector. This is my dumbass roommate playing with it when I toldd him about it.
 
-![](http://gfycat.com/BrokenGroundedAstarte)
+![](http://giant.gfycat.com/BrokenGroundedAstarte.gif)
