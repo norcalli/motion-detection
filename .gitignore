@@ -11,3 +11,10 @@
 *.lai
 *.la
 *.a
+
+recordings
+logs
+*.jpg
+*.gif
+build
+bin

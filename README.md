@@ -3,6 +3,11 @@ motion-detection
 
 Playing around with motion detection using various methods and algorithms in C++ and Python with support for recording from network and prebuffering the image using OpenCV.
 
+##[Demo Sample](http://gfycat.com/BrokenGroundedAstarte):
+This is a snippet from a recording that was taken using the motion detector. This is my dumbass roommate playing with it when I told him about it.
+
+![](http://giant.gfycat.com/BrokenGroundedAstarte.gif)
+
 ##Features:
 - Let's you open a network stream or local camera.
 - Implements recording of the stream when motion is detected:
@@ -13,7 +18,7 @@ Playing around with motion detection using various methods and algorithms in C++
 - Multiple Motion Adapters which implement different methods for detecting motion because I felt like it.
 - Partially written in both Python and C++.
 
-##Demo Sample:
-This is a snippet from a recording that was taken using the motion detector. This is my dumbass roommate playing with it when I toldd him about it.
-
-![](http://giant.gfycat.com/BrokenGroundedAstarte.gif)
+##Compilation:
+###Requires:
+- `premake4` for building.
+- I can't remmember anything else right now. TODO.
